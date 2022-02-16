@@ -1,5 +1,5 @@
 # scRNAseq_analysis_OR_genes
-Gene expression deconvolution and single cell sequencing analysis on Drosophila Melanogaster 
+Single cell sequencing analysis on Olfactory System of Drosophila Melanogaster 
 
              
 Analyzes the raw single cell count matrix, performs qc checks, 
